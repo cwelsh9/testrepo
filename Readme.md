@@ -1,4 +1,4 @@
-# Lessons-Learned
+# Lessons-Learned-Bloc.io
 
 ## Things I have Learned at Bloc
 
